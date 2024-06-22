@@ -12,7 +12,7 @@ import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.MethodChannel;
 
 public class MainActivity extends FlutterActivity {
-    private static final String CHANNEL = "com.example.azure/communication";
+    private static final String CHANNEL = "com.example.untitled1";
     private CallClient callClient;
     private CallAgent callAgent;
     private Call call;
